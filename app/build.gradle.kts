@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.mynotessqlite"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.mynotessqlite"
