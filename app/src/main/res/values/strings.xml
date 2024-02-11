@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNotesSQLite</string>
+
+    <string name="cd_addTask">Add task</string>
+
+    <string name="tv_addNoteHeading">Add Note.</string>
+    <string name="et_titleTask">Enter the title</string>
+    <string name="et_description">Enter the description</string>
+</resources>
