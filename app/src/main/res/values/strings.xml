@@ -11,4 +11,6 @@
 
     <string name="tv_titleCard">Title</string>
     <string name="tv_contentCard">Content</string>
+
+    <string name="tv_editNoteHeading">Edit Note.</string>
 </resources>
