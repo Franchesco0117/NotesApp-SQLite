@@ -6,4 +6,9 @@
     <string name="tv_addNoteHeading">Add Note.</string>
     <string name="et_titleTask">Enter the title</string>
     <string name="et_description">Enter the description</string>
+
+    <string name="tv_notesHeading">Notes</string>
+
+    <string name="tv_titleCard">Title</string>
+    <string name="tv_contentCard">Content</string>
 </resources>
